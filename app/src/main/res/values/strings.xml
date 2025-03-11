@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News of the world</string>
+    <string name="drawer_open">Navigation drawer open</string>
+    <string name="drawer_close">Navigation drawer closed</string>
+    <string name="topic">Topics</string>
+    <string name="country">Countries</string>
+    <string name="language">Languages</string>
+    <string name="this_is_a_label">this_is_a_label</string>
+    <string name="this_is_a_sub_label">this_is_a_sub_label</string>
+    <string name="file_drawers_image">file_drawers_image</string>
+    <string name="clear_all">Clear All</string>
+    <string name="setarticlephoto">setArticlePhoto</string>
+
+</resources>

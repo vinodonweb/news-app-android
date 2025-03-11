@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/do_a"
+        android:id="@+id/menuA" />
+    <item android:title="@string/do_b"
+        android:id="@+id/menuB" />
+    <item android:title="@string/do_c"
+        android:id="@+id/menuC" />
+
+</menu>
